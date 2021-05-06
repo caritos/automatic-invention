@@ -10,7 +10,7 @@ import org.springframework.web.server.ResponseStatusException
 
 @Controller
 class HtmlController(private val repository: ArticleRepository,
-                     private val properties: BlogProperties
+                     private val properties: ApplicationProperties
 ) {
 
 	@GetMapping("/")

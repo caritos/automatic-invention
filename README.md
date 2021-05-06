@@ -1,11 +1,11 @@
 # automatic-invention
 
-:toc:
-:icons: font
-:source-highlighter: prettify
-:project_id: tut-spring-boot-kotlin
-:images: https://raw.githubusercontent.com/spring-guides/tut-spring-boot-kotlin/master/images
-:tabsize: 2
+## [Heroku Website](https://gentle-ridge-15683.herokuapp.com/)
+## [Deploying Spring Book Apps to Heroku](https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku)
+* ggpush
+* git push heroku main
+* heroku open
+* heroku logs --tail
 
 This tutorial shows you how to build efficiently a sample blog application by combining the power of https://spring.io/projects/spring-boot/[Spring Boot] and https://kotlinlang.org/[Kotlin].
 
